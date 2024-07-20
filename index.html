@@ -3,18 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Player Data</title>
+    <title>Survey Data</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
-        <h1>Player Data</h1>
-        <form id="player-form">
-            <label for="player-name">Enter Player Name:</label>
-            <input type="text" id="player-name" name="player-name">
-            <button type="button" onclick="fetchPlayerData()">Get Player Data</button>
+        <h1>Survey Data</h1>
+        <form id="survey-form" onsubmit="fetchSurveyData(); return false;">
+            <label for="name">Enter Name:</label>
+            <input type="text" id="name" name="name" required>
+            <button type="submit">Get Survey Data</button>
         </form>
-        <div id="player-data"></div>
+        <div id="survey-data"></div>
     </div>
     <script src="script.js"></script>
 </body>
