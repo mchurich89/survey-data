@@ -4,8 +4,8 @@
             "name": "Avery",
             "scores": {
                 "Risk Profile": "high",
-                "Resiliency": "low",
-                "Conscientiousness": "medium",
+                "Resiliency": "medium",
+                "Conscientiousness": "high",
                 "Endurance": "low",
                 "Mental Flexibility": "high"
             }
@@ -15,9 +15,149 @@
             "scores": {
                 "Risk Profile": "medium",
                 "Resiliency": "medium",
-                "Conscientiousness": "low",
+                "Conscientiousness": "medium",
+                "Endurance": "low",
+                "Mental Flexibility": "high"
+            }
+        },
+        {
+            "name": "Jayhlin Swain",
+            "scores": {
+                "Risk Profile": "high",
+                "Resiliency": "low",
+                "Conscientiousness": "high",
                 "Endurance": "medium",
-                "Mental Flexibility": "medium"
+                "Mental Flexibility": "high"
+            }
+        },
+        {
+            "name": "Cameron Berger",
+            "scores": {
+                "Risk Profile": "high",
+                "Resiliency": "low",
+                "Conscientiousness": "high",
+                "Endurance": "medium",
+                "Mental Flexibility": "high"
+            }
+        },
+        {
+            "name": "Nalani Iosia",
+            "scores": {
+                "Risk Profile": "medium",
+                "Resiliency": "medium",
+                "Conscientiousness": "high",
+                "Endurance": "medium",
+                "Mental Flexibility": "high"
+            }
+        },
+        {
+            "name": "Amani McArthur",
+            "scores": {
+                "Risk Profile": "high",
+                "Resiliency": "low",
+                "Conscientiousness": "medium",
+                "Endurance": "medium",
+                "Mental Flexibility": "high"
+            }
+        },
+        {
+            "name": "Maradith O’Gorman",
+            "scores": {
+                "Risk Profile": "high",
+                "Resiliency": "medium",
+                "Conscientiousness": "high",
+                "Endurance": "medium",
+                "Mental Flexibility": "high"
+            }
+        },
+        {
+            "name": "Grace Kelly",
+            "scores": {
+                "Risk Profile": "medium",
+                "Resiliency": "low",
+                "Conscientiousness": "high",
+                "Endurance": "high",
+                "Mental Flexibility": "high"
+            }
+        },
+        {
+            "name": "Karolina Staniszewska",
+            "scores": {
+                "Risk Profile": "medium",
+                "Resiliency": "medium",
+                "Conscientiousness": "high",
+                "Endurance": "medium",
+                "Mental Flexibility": "high"
+            }
+        },
+        {
+            "name": "Aliyah Moore",
+            "scores": {
+                "Risk Profile": "high",
+                "Resiliency": "low",
+                "Conscientiousness": "medium",
+                "Endurance": "high",
+                "Mental Flexibility": "high"
+            }
+        },
+        {
+            "name": "Kaya",
+            "scores": {
+                "Risk Profile": "high",
+                "Resiliency": "low",
+                "Conscientiousness": "medium",
+                "Endurance": "medium",
+                "Mental Flexibility": "high"
+            }
+        },
+        {
+            "name": "Zuzanna",
+            "scores": {
+                "Risk Profile": "high",
+                "Resiliency": "medium",
+                "Conscientiousness": "medium",
+                "Endurance": "medium",
+                "Mental Flexibility": "high"
+            }
+        },
+        {
+            "name": "Taylah Holdem",
+            "scores": {
+                "Risk Profile": "high",
+                "Resiliency": "low",
+                "Conscientiousness": "high",
+                "Endurance": "medium",
+                "Mental Flexibility": "high"
+            }
+        },
+        {
+            "name": "Selin Aslayan",
+            "scores": {
+                "Risk Profile": "high",
+                "Resiliency": "low",
+                "Conscientiousness": "high",
+                "Endurance": "medium",
+                "Mental Flexibility": "high"
+            }
+        },
+        {
+            "name": "Makya",
+            "scores": {
+                "Risk Profile": "high",
+                "Resiliency": "low",
+                "Conscientiousness": "high",
+                "Endurance": "medium",
+                "Mental Flexibility": "high"
+            }
+        },
+        {
+            "name": "Evie Doezema",
+            "scores": {
+                "Risk Profile": "high",
+                "Resiliency": "low",
+                "Conscientiousness": "high",
+                "Endurance": "low",
+                "Mental Flexibility": "high"
             }
         }
     ]
