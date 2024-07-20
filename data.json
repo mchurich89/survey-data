@@ -1,0 +1,24 @@
+{
+    "players": [
+        {
+            "name": "Avery",
+            "scores": {
+                "Risk Profile": "high",
+                "Resiliency": "low",
+                "Conscientiousness": "medium",
+                "Endurance": "low",
+                "Mental Flexibility": "high"
+            }
+        },
+        {
+            "name": "Julia Bishop",
+            "scores": {
+                "Risk Profile": "medium",
+                "Resiliency": "medium",
+                "Conscientiousness": "low",
+                "Endurance": "medium",
+                "Mental Flexibility": "medium"
+            }
+        }
+    ]
+}
